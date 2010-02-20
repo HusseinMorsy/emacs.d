@@ -1,0 +1,13 @@
+/auto-save-list
+/.session
+*.elc
+CVS
+.svn
+*~
+.cvsignore
+.*.lock
+/tramp
+/TODO
+/.org-id-locations
+cookies
+/elpa/archives/
